@@ -11,7 +11,7 @@ body{
 .left{
 	width: 50vw;
 }
-.left<p{
+.left>p{
 	font-size: 40px;
 	margin-top: 30px;
 }
@@ -53,11 +53,6 @@ input[type="text"],input[type="password"]{
 	background-color: #1a77f2;
 	color: white;
 	font-size: 25px;
-}
-.signup>hr{
-	margin-top: 10px;
-	width: 100%;
-	border: 1px solid #aaaaaa;
 }
 a[href="#"]{
 	margin-top: 20px;
